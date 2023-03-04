@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Parent {
+
+
+public class Parent {
+    public int number = 15;
 }

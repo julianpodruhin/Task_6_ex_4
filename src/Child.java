@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Child {
+
+
+public class Child extends Parent {
+    public void getParentNumber() {
+        System.out.println(number);
+    }
 }
